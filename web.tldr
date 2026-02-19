@@ -34,12 +34,108 @@
 	},
 	"records": [
 		{
+			"x": 142.86778636614963,
+			"y": 2879.665570665209,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:6NfSrOBpQcWxrJuPaj-n9",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "s",
+				"w": 750.90625,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "1) Flex-shrink: 0 ;  // this is used for if e dont want to shrink items in container  "
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "2) flex-shrink: 1 ; // this is default value "
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "aiTFhX3V",
+			"typeName": "shape"
+		},
+		{
 			"x": 0,
 			"y": 0,
 			"lastActivityTimestamp": 0,
 			"meta": {},
 			"id": "pointer:pointer",
 			"typeName": "pointer"
+		},
+		{
+			"x": 1309.8677863661496,
+			"y": 1706.665570665209,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:ZIxQqlolTYBFJV1oPTJR8",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "s",
+				"w": 870.390625,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "- the grid templet property is used to define the number and width of column in grid layout "
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "art7aGhV",
+			"typeName": "shape"
 		},
 		{
 			"x": 432,
@@ -121,8 +217,128 @@
 			"typeName": "shape"
 		},
 		{
-			"x": -87.578125,
-			"y": -2178.8900232265637,
+			"x": 1308.8677863661496,
+			"y": 1751.665570665209,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:1BUPp6Dm7nlmeEwObVBvo",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "s",
+				"w": 902.5,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "1) grid-templete-column: 200px 200px 300px ; // they all are column sixe we can also write in %"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "2) grid-templete-comumn : auto auro auto ;  // column width depend on content size "
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "3) grid-templete-column : 1fr 1fr 1fr ; This can deveide into fraction "
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "askwPzWG",
+			"typeName": "shape"
+		},
+		{
+			"x": 1418.8677863661496,
+			"y": 2596.665570665209,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:5wz1gdSp5y5BWqCD7AtyL",
+			"type": "text",
+			"props": {
+				"color": "violet",
+				"size": "s",
+				"w": 202.828125,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "@media ( condition ){"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "}"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "b04R6Uojl",
+			"typeName": "shape"
+		},
+		{
+			"x": -1297.8677863661496,
+			"y": -2304.814008165209,
 			"z": 1,
 			"meta": {},
 			"id": "camera:page:page",
@@ -383,6 +599,162 @@
 			"typeName": "shape"
 		},
 		{
+			"x": 1322.8677863661496,
+			"y": 2184.665570665209,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:21ny8xg0EOoK3wdzc5tfW",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "s",
+				"w": 778.75,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "The items will be automatically placed in the grid this can work in row and column"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "1)grid-auto-flow: row ;     //or a column "
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": " "
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "az9XvNqV",
+			"typeName": "shape"
+		},
+		{
+			"x": 1323.8677863661496,
+			"y": 2483.665570665209,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:MptjpQ_BCkqciiSHPy8y6",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "s",
+				"w": 889.203125,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1.164630225080386,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Media Quaries use to make wesite responsive - meaning the layout changes the size of screen"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "b02nZ7WUG",
+			"typeName": "shape"
+		},
+		{
+			"x": 1312.8677863661496,
+			"y": 1941.665570665209,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:tik--r3X_QSEF2FVcUU6t",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "s",
+				"w": 896.21875,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "- the grid templete property is used to define the numbers and height of columnin grid layout  "
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "auEQ8bKV",
+			"typeName": "shape"
+		},
+		{
 			"x": 83,
 			"y": 1656.3046875,
 			"rotation": 0,
@@ -467,6 +839,43 @@
 			"typeName": "shape"
 		},
 		{
+			"x": 1469.8677863661496,
+			"y": 2322.814008165209,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:kFqwzDj14VJMnHvmcuv-R",
+			"type": "geo",
+			"props": {
+				"w": 882,
+				"h": 125,
+				"geo": "rectangle",
+				"dash": "draw",
+				"growY": 0,
+				"url": "",
+				"scale": 1,
+				"color": "black",
+				"labelColor": "black",
+				"fill": "solid",
+				"size": "xl",
+				"font": "draw",
+				"align": "middle",
+				"verticalAlign": "middle",
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph"
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "b009jRbZV",
+			"typeName": "shape"
+		},
+		{
 			"x": 75,
 			"y": 1247.3046875,
 			"rotation": 0,
@@ -537,6 +946,60 @@
 			},
 			"parentId": "shape:fNuiHY90QPh-Ntb5XDCtV",
 			"index": "a8Glu6cV",
+			"typeName": "shape"
+		},
+		{
+			"x": 126.86778636614963,
+			"y": 2820.665570665209,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:T3UvVl_m5oQ-zcYpXCsUI",
+			"type": "text",
+			"props": {
+				"color": "red",
+				"size": "s",
+				"w": 695.921875,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "- flex shrink how much  fex item reduces its size relative to the other lex "
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "\t\titems when there is insufficient spce in  flex countainer "
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "ahGX7KKV",
 			"typeName": "shape"
 		},
 		{
@@ -755,10 +1218,10 @@
 			"typeName": "shape"
 		},
 		{
-			"editingShapeId": "shape:LECBtBIJIhVmxo1AMCIzZ",
+			"editingShapeId": "shape:5wz1gdSp5y5BWqCD7AtyL",
 			"croppingShapeId": null,
 			"selectedShapeIds": [
-				"shape:LECBtBIJIhVmxo1AMCIzZ"
+				"shape:5wz1gdSp5y5BWqCD7AtyL"
 			],
 			"hoveredShapeId": null,
 			"erasingShapeIds": [],
@@ -768,6 +1231,90 @@
 			"id": "instance_page_state:page:page",
 			"pageId": "page:page",
 			"typeName": "instance_page_state"
+		},
+		{
+			"x": 1303.8677863661496,
+			"y": 2118.517133165209,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:Ioc5K9Mj3hJLW2wcjDpd4",
+			"type": "text",
+			"props": {
+				"color": "blue",
+				"size": "l",
+				"w": 284.828125,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Grid-auto-flow"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "awlifgnV",
+			"typeName": "shape"
+		},
+		{
+			"x": 1506.8677863661496,
+			"y": 1530.665570665209,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:M39Vyca0C_0vtz4g0Q816",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "s",
+				"w": 769.984375,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "css grid is a layout system used to create row and column for desigion webpage   "
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "apLUU9z4",
+			"typeName": "shape"
 		},
 		{
 			"x": 704.71875,
@@ -1002,6 +1549,119 @@
 			},
 			"parentId": "page:page",
 			"index": "aJwxF2cV",
+			"typeName": "shape"
+		},
+		{
+			"x": 1428.8677863661496,
+			"y": 1414.814008165209,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:Y-kV-0JSBoKeEG2Yo9m9W",
+			"type": "geo",
+			"props": {
+				"w": 903,
+				"h": 157,
+				"geo": "rectangle",
+				"dash": "draw",
+				"growY": 0,
+				"url": "",
+				"scale": 1,
+				"color": "grey",
+				"labelColor": "black",
+				"fill": "solid",
+				"size": "xl",
+				"font": "draw",
+				"align": "middle",
+				"verticalAlign": "middle",
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph"
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "amfTTwdV",
+			"typeName": "shape"
+		},
+		{
+			"x": 1246.8677863661496,
+			"y": 1413.814008165209,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:cTbQA2zsMJokZ2kRzviqm",
+			"type": "line",
+			"props": {
+				"dash": "draw",
+				"size": "s",
+				"color": "blue",
+				"spline": "line",
+				"points": {
+					"a1": {
+						"id": "a1",
+						"index": "a1",
+						"x": 0,
+						"y": 0
+					},
+					"a2Sl43oV": {
+						"id": "a2Sl43oV",
+						"index": "a2Sl43oV",
+						"x": 20,
+						"y": 1800
+					}
+				},
+				"scale": 1
+			},
+			"parentId": "page:page",
+			"index": "anWvHAXV",
+			"typeName": "shape"
+		},
+		{
+			"x": 1655.8677863661496,
+			"y": 1414.118695665209,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:and4x_wlWlwgcjtncJG07",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "xl",
+				"w": 276.9375,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1.592191378921237,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Display Grid"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "aoZD6zkl",
 			"typeName": "shape"
 		},
 		{
@@ -1401,6 +2061,186 @@
 			"typeName": "shape"
 		},
 		{
+			"x": 1305.8677863661496,
+			"y": 1641.517133165209,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:FmjtvGiQLuYtI9YT39j6V",
+			"type": "text",
+			"props": {
+				"color": "blue",
+				"size": "l",
+				"w": 403.890625,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "grid-Templete-column"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "aqir8DtV",
+			"typeName": "shape"
+		},
+		{
+			"x": 122.86778636614963,
+			"y": 2759.517133165209,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:Z0fBCc_7DraLQuuJWYW7j",
+			"type": "text",
+			"props": {
+				"color": "red",
+				"size": "l",
+				"w": 208.21875,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Flex Shrink"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "agZneHEV",
+			"typeName": "shape"
+		},
+		{
+			"x": 1310.8677863661496,
+			"y": 1882.517133165209,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:GABKHy-Xo0WYfkYoBTdYQ",
+			"type": "text",
+			"props": {
+				"color": "blue",
+				"size": "l",
+				"w": 352.796875,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Grid-templete-row"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "atBioWwV",
+			"typeName": "shape"
+		},
+		{
+			"x": 1364.8677863661496,
+			"y": 2558.665570665209,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:q1QEvUJfsuOfoMRoKORpr",
+			"type": "text",
+			"props": {
+				"color": "red",
+				"size": "s",
+				"w": 63.84375,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Syntax"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "\t\t\t\t"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "b034QIwLV",
+			"typeName": "shape"
+		},
+		{
 			"x": 87,
 			"y": 1738.8515625,
 			"rotation": 0,
@@ -1482,6 +2322,48 @@
 			},
 			"parentId": "page:page",
 			"index": "a6wDnOLV",
+			"typeName": "shape"
+		},
+		{
+			"x": 134.86778636614963,
+			"y": 2988.517133165209,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:d6YcJvsldCp_beoxr974m",
+			"type": "text",
+			"props": {
+				"color": "blue",
+				"size": "l",
+				"w": 74.921875,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Gap"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "aj4ozkEG",
 			"typeName": "shape"
 		},
 		{
@@ -1853,6 +2735,48 @@
 			"typeName": "shape"
 		},
 		{
+			"x": 140.86778636614963,
+			"y": 3097.665570665209,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:tLalhNkZuU8e8lPdvoRSy",
+			"type": "text",
+			"props": {
+				"color": "blue",
+				"size": "s",
+				"w": 86.21875,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "gap:10px;"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "alSEVucV",
+			"typeName": "shape"
+		},
+		{
 			"meta": {},
 			"id": "page:page",
 			"name": "Page 1",
@@ -1946,11 +2870,10 @@
 			"followingUserId": null,
 			"opacityForNextShape": 1,
 			"stylesForNextShape": {
-				"tldraw:geo": "arrow-right",
-				"tldraw:fill": "lined-fill",
-				"tldraw:color": "blue",
+				"tldraw:color": "violet",
 				"tldraw:size": "s",
-				"tldraw:font": "draw"
+				"tldraw:fill": "solid",
+				"tldraw:geo": "rectangle"
 			},
 			"brush": null,
 			"scribbles": [],
@@ -1993,6 +2916,48 @@
 			"id": "instance:instance",
 			"currentPageId": "page:page",
 			"typeName": "instance"
+		},
+		{
+			"x": 1602.8677863661496,
+			"y": 2331.118695665209,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:yrnXv-wJFAa0Akwor3SyT",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "xl",
+				"w": 332.109375,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1.6566692975532755,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Media Quaries"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "b01QkJRDV",
+			"typeName": "shape"
 		},
 		{
 			"x": 86,
@@ -2123,6 +3088,114 @@
 			},
 			"parentId": "page:page",
 			"index": "aOysaDkt",
+			"typeName": "shape"
+		},
+		{
+			"x": 152.86778636614963,
+			"y": 3052.665570665209,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:zKM-mG8rUfPSkfU943fgO",
+			"type": "text",
+			"props": {
+				"color": "blue",
+				"size": "s",
+				"w": 439.109375,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "- to create a gap betyween items in container "
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "akGEXvuV",
+			"typeName": "shape"
+		},
+		{
+			"x": 1336.8677863661496,
+			"y": 1994.665570665209,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:ugPT1-P_jH_7b8utzrPXc",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "s",
+				"w": 874.1875,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "1) grid-templete-row: 200px 200px 300px ; // they all are column size we can also write in %"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "2) grid-templete-row : auto auro auto ;  // column width depend on content size "
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "3) grid-templete-row : 1fr 1fr 1fr ; This can deveide into fraction "
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "av6cizBl",
 			"typeName": "shape"
 		},
 		{
