@@ -1,9 +1,48 @@
-#container{
-    height: 100vh;
-    width: 100%;
+/* #container{
+    height: 400px;
+    width: 400px;
     background-color: aqua;
+   position: relative;
+   display: flex;
+   overflow: hidden;
+   gap: 10px;
 }
 
 .box{
-    background-color: cornflowerblue;
+    height: 100px;
+    width: 100px;
+    background-color: rgb(199, 184, 54);
+     */
+/* }
+
+.box1{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(237, 100, 203);
+   position: absolute;
+    left: 10px;
+    right: 20px;
+}
+.box2{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(237, 100, 100);
+   
+} */
+
+#carousel{
+    width: 90%;
+    margin: 100px auto;
+    display: flex;
+    gap: 10px;
+    background-color: aqua;
+}
+
+
+
+.box{
+    height: 5em;
+    width: 100px;
+
+    background-color:chocolate ;
 }
